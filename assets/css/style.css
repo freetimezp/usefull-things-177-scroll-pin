@@ -42,6 +42,7 @@ nav {
     justify-content: space-between;
     mix-blend-mode: difference;
     z-index: 2;
+    font-size: 20px;
 }
 
 .links {
